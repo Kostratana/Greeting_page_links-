@@ -45,6 +45,8 @@ src="https://img.shields.io/github/followers/Kostratana?logo=github&style=for-th
 
 <div width="100%" align="center"><a href="https://github.com/Kostratana/logistic_optimization_project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kostratana&repo=logistic_optimization_project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Kostratana/logistic_optimization_genetic_ants_algorithms" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kostratana&repo=logistic_optimization_genetic_ants_algorithms&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
+
+
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
