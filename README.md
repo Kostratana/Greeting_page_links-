@@ -1,4 +1,4 @@
-# 👋 Svetlana Rumyantseva
+# Svetlana Rumyantseva
 
 AI Engineer | Machine Learning | AI Systems
 
